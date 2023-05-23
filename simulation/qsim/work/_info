@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\CurrentCourses\DigitalLogicDesign\Tasks\SRA-base\simulation\qsim
+vTEST_COMP
+Z1 I3ldj;AQ9SPYTkg71fE1Qz0
+Z2 VF7DVMPT_S;QnZ0NoS`H^U0
+Z3 dD:\CurrentCourses\DigitalLogicDesign\Tasks\SRA-base\simulation\qsim
+Z4 w1684856933
+Z5 8SRA.vo
+Z6 FSRA.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@t@e@s@t_@c@o@m@p
+!i10b 1
+Z10 !s100 J>g7oKSN;[GC^j<97WL`m3
+!s85 0
+Z11 !s108 1684856935.068000
+Z12 !s107 SRA.vo|
+Z13 !s90 -work|work|SRA.vo|
+!s101 -O0
+vTEST_COMP_vlg_check_tst
+!i10b 1
+!s100 O4HD5QSjMZk32dEXF1[El3
+I=8f9EiRgDojhD8e=bUNG^3
+V10R4bJOA?55ZeS`zY>i9n1
+R3
+Z14 w1684856932
+Z15 8SRA.vt
+Z16 FSRA.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1684856935.265000
+Z18 !s107 SRA.vt|
+Z19 !s90 -work|work|SRA.vt|
+!s101 -O0
+R8
+n@t@e@s@t_@c@o@m@p_vlg_check_tst
+vTEST_COMP_vlg_sample_tst
+!i10b 1
+!s100 kHWNS:h1HO_L?MKe<T[hM0
+InNlH5EZlGc:hH7Al^U>h61
+VWRJYdjSlQS2D82<OQTW1^0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@t@e@s@t_@c@o@m@p_vlg_sample_tst
+vTEST_COMP_vlg_vec_tst
+!i10b 1
+!s100 R=H>LZibL9WRVfdC[]e:f0
+IWnAIaaZ^?]ceUcKf^[]E62
+VFoi`N;mm?D2f2Umec_ZFd1
+R3
+R14
+R15
+R16
+L0 281
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@t@e@s@t_@c@o@m@p_vlg_vec_tst
